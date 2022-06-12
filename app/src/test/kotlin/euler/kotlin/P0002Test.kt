@@ -3,7 +3,7 @@ import kotlin.test.Test
 import kotlin.test.assertEquals
 
 
-internal class P0001Test {
+internal class P0002Test {
 
     @Test
     fun `the sum of the even Fibonacci numbers with upper limit of 44 `() {
